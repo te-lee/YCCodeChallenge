@@ -19,3 +19,4 @@ For Q3 2017
 - Payments made more than 28 days after the end of a quarter are not to be analysed as the variance for that quarter
 - Payments made earlier than 28 days after the start of a quarter are to be analysed as the previous quarter
 - Super payable should be rounded to the nearest cent
+- Overpayments of super should be negative values
